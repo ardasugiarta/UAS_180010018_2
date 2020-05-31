@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UAS 180010018 2</string>
+    <string name="ganti_gambar">Ganti Gambar</string>
+    <string name="judul">Judul</string>
+    <string name="penulis">Penulis</string>
+    <string name="penerbit">Penerbit</string>
+    <string name="tahun_terbit">Tahun Terbit</string>
+    <string name="jenis_fiksi">Fiksi</string>
+    <string name="jenis_nonfiksi">Non-fiksi</string>
+    <string name="save">Simpan</string>
+    <string name="add">Tambah Buku</string>
+    <string name="delete">Hapus Buku</string>
+</resources>
